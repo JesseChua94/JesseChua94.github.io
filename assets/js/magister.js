@@ -2,7 +2,7 @@
 var current_item = 0;
 
 // few settings
-var section_hide_time = 700;
+var section_hide_time = 500;
 var section_show_time = 1300;
 
 // jQuery stuff
